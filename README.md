@@ -1,9 +1,10 @@
 # JXA Scripts
 Various useful Javascript for Automation scripts
 
-# Omnifocus 3
+# OmniFocus 3
 
 **exportAsOpml.js**
+
 Export your tasks as OPML to file "OmniFocusExport.opml" on your desktop.
 
 By default, it exports all non-dropped, non-completed tasks, but those filters can be changed at the top of the script.
